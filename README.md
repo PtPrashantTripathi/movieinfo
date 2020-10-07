@@ -1,38 +1,26 @@
 <center>
-	<a href="https://ptprashanttripathi.github.io/movieinfo">
-		<img alt="movieinfo app" src="https://i.imgur.com/IVOhZJi.jpg" width="150vw" />
-	</a>
+	<a href="https://ptprashanttripathi.github.io/movieinfo"><img alt="movieinfo app" src="https://i.imgur.com/IVOhZJi.jpg" width="150vw"/></a>
 	<h1>Movie Info App</h1>
-
-
-[![contributors-shield](https://img.shields.io/github/contributors/ptprashanttripathi/movieinfo.svg?style=flat-square)](https://github.com/ptprashanttripathi/movieinfo/graphs/contributors)
-[![forks-shield](https://img.shields.io/github/forks/ptprashanttripathi/movieinfo.svg?style=flat-square)](https://github.com/ptprashanttripathi/movieinfo/network/members)
-[![stars-shield](https://img.shields.io/github/stars/ptprashanttripathi/movieinfo.svg?style=flat-square)](https://github.com/ptprashanttripathi/movieinfo/stargazers)
-[![issues-shield](https://img.shields.io/github/issues/ptprashanttripathi/movieinfo.svg?style=flat-square)](https://github.com/ptprashanttripathi/movieinfo/issues)
-![GitHub release](https://img.shields.io/github/release/PtPrashantTripathi/movieinfo.svg?style=flat-square)
-![GitHub Release Date](https://img.shields.io/github/release-date/PtPrashantTripathi/movieinfo.svg?style=flat-square)
-![License](https://img.shields.io/github/license/PtPrashantTripathi/movieinfo.svg?style=flat-square)
-![Total-Downlode](https://img.shields.io/github/downloads/PtPrashantTripathi/movieinfo/total.svg?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/PtPrashantTripathi/movieinfo.svg?style=flat-square)
-![Website Status](https://img.shields.io/website/http/ptprashanttripathi.github.io.svg?down_message=Down&up_message=Online&style=flat-square)
-
-[View Demo](https://ptprashanttripathi.github.io/movieinfo)
-·
-[Report Bug](https://github.com/ptprashanttripathi/movieinfo/issues/new/choose)
-·
-[Request Feature](https://github.com/ptprashanttripathi/movieinfo/issues/new/choose)
-
-<p>
-
-*Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/100)  💸 to help it improve!*
-
-
-<a href="https://paypal.me/PtPrashantTripathi"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
-</a>
-<a href='https://ko-fi.com/ptprashanttripathi' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for ptprashanttripathi' />
-</a>
-<a href="https://www.buymeacoffee.com/ptprashant09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
-</p>
+	<a href="/graphs/contributors"><img alt="contributors-shield" src="https://img.shields.io/github/contributors/ptprashanttripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="/network/members"><img alt="forks-shield" src="https://img.shields.io/github/forks/ptprashanttripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="/stargazers"><img alt="stars-shield" src="https://img.shields.io/github/stars/ptprashanttripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="/issues"><img alt="issues-shield" src="https://img.shields.io/github/issues/ptprashanttripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/PtPrashantTripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="/releases"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/PtPrashantTripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="/LICENSE"><img alt="License" src="https://img.shields.io/github/license/PtPrashantTripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/PtPrashantTripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="/graphs/traffic"><img alt="Total-Downlode" src="https://img.shields.io/github/downloads/PtPrashantTripathi/movieinfo/total.svg?style=flat-square"/></a>
+	<a href="https://ptprashanttripathi.github.io/movieinfo"><img alt="Website Status" src="https://img.shields.io/website/http/ptprashanttripathi.github.io.svg?down_message=Down&up_message=Online&style=flat-square"/></a>
+	<br/>
+	<a href="https://ptprashanttripathi.github.io/movieinfo">View Demo</a>·
+	<a href="/issues/new/choose">Report Bug</a>·
+	<a href="/issues/new/choose">Request Feature</a>
+	<br/>
+	<i>Loved the tool? Please consider <a href="https://paypal.me/ptprashanttripathi/100">donating</a> 💸 to help it improve!</i>
+	<br/>
+	<a href="https://paypal.me/PtPrashantTripathi"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="Donate"/></a>
+	<a href='https://ko-fi.com/ptprashanttripathi' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for ptprashanttripathi' /></a>
+	<a href="https://www.buymeacoffee.com/ptprashant09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" /></a>
 </center>
 
 ## About
@@ -169,8 +157,8 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 
 **Please contact me using one of the following:**
 
-Github: [Pt. Prashant Tripathi](https://gist.github.com/ptprashanttripathi/movieinfo)
- 
+Github: [Pt. Prashant Tripathi](https://github.com/ptprashanttripathi/)
+
 Email: [pt8435782545@gmail.com](mailto:pt8435782545@gmail.com)
   
 <hr>
