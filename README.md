@@ -1,27 +1,28 @@
-<center>
-	<a href="https://ptprashanttripathi.github.io/movieinfo"><img alt="movieinfo app" src="https://i.imgur.com/IVOhZJi.jpg" width="150vw"/></a>
-	<h1>Movie Info App</h1>
-	<a href="/graphs/contributors"><img alt="contributors-shield" src="https://img.shields.io/github/contributors/ptprashanttripathi/movieinfo.svg?style=flat-square"/></a>
-	<a href="/network/members"><img alt="forks-shield" src="https://img.shields.io/github/forks/ptprashanttripathi/movieinfo.svg?style=flat-square"/></a>
-	<a href="/stargazers"><img alt="stars-shield" src="https://img.shields.io/github/stars/ptprashanttripathi/movieinfo.svg?style=flat-square"/></a>
-	<a href="/issues"><img alt="issues-shield" src="https://img.shields.io/github/issues/ptprashanttripathi/movieinfo.svg?style=flat-square"/></a>
-	<a href="/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/PtPrashantTripathi/movieinfo.svg?style=flat-square"/></a>
-	<a href="/releases"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/PtPrashantTripathi/movieinfo.svg?style=flat-square"/></a>
-	<a href="/LICENSE"><img alt="License" src="https://img.shields.io/github/license/PtPrashantTripathi/movieinfo.svg?style=flat-square"/></a>
-	<a href="/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/PtPrashantTripathi/movieinfo.svg?style=flat-square"/></a>
-	<a href="/graphs/traffic"><img alt="Total-Downlode" src="https://img.shields.io/github/downloads/PtPrashantTripathi/movieinfo/total.svg?style=flat-square"/></a>
+<p align="center"><a href="https://ptprashanttripathi.github.io/movieinfo"><img alt="movieinfo app" src="https://i.imgur.com/IVOhZJi.jpg" width="150vw"/></a></p>
+<h1 align="center">Movie Info App</h1>
+<p align="center">
+	<a href="https://github.com/PtPrashantTripathi/movieinfo/graphs/contributors"><img alt="contributors-shield" src="https://img.shields.io/github/contributors/ptprashanttripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/movieinfo/network/members"><img alt="forks-shield" src="https://img.shields.io/github/forks/ptprashanttripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/movieinfo/stargazers"><img alt="stars-shield" src="https://img.shields.io/github/stars/ptprashanttripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/movieinfo/issues"><img alt="issues-shield" src="https://img.shields.io/github/issues/ptprashanttripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/movieinfo/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/PtPrashantTripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/movieinfo/releases"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/PtPrashantTripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/movieinfo/LICENSE"><img alt="License" src="https://img.shields.io/github/license/PtPrashantTripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/movieinfo/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/PtPrashantTripathi/movieinfo.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/movieinfo/graphs/traffic"><img alt="Total-Downlode" src="https://img.shields.io/github/downloads/PtPrashantTripathi/movieinfo/total.svg?style=flat-square"/></a>
 	<a href="https://ptprashanttripathi.github.io/movieinfo"><img alt="Website Status" src="https://img.shields.io/website/http/ptprashanttripathi.github.io.svg?down_message=Down&up_message=Online&style=flat-square"/></a>
-	<br/>
+</p>
+<p align="center">
 	<a href="https://ptprashanttripathi.github.io/movieinfo">View Demo</a>·
-	<a href="/issues/new/choose">Report Bug</a>·
-	<a href="/issues/new/choose">Request Feature</a>
-	<br/>
+	<a href="https://github.com/PtPrashantTripathi/movieinfo/issues/new/choose">Report Bug</a>·
+	<a href="https://github.com/PtPrashantTripathi/movieinfo/issues/new/choose">Request Feature</a>
+</p>
+<p align="center">
 	<i>Loved the tool? Please consider <a href="https://paypal.me/ptprashanttripathi/100">donating</a> 💸 to help it improve!</i>
-	<br/>
 	<a href="https://paypal.me/PtPrashantTripathi"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="Donate"/></a>
 	<a href='https://ko-fi.com/ptprashanttripathi' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for ptprashanttripathi' /></a>
 	<a href="https://www.buymeacoffee.com/ptprashant09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" /></a>
-</center>
+</p>
 
 ## About
 
@@ -119,7 +120,7 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 ![Designer](https://img.shields.io/badge/Designer-Ajay%20Patel-Success.svg?style=flat-square)
 
 <table>
-  <tr>
+	<tr>
 		<th align="center">
 				<a href="https://github.com/ptprashanttripathi">
 					<sub><b>Pt. Prashant Tripathi</b></sub>
@@ -130,8 +131,8 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 					<sub><b>Ajay Patel</b></sub>
 				</a>
 		</th>
-  </tr>
-  <tr>
+  	</tr>
+ 	<tr>
 		<td align="center">
 			<a href="https://github.com/ptprashanttripathi">
 				<img src="https://avatars2.githubusercontent.com/u/26687933?s=200&v=4" width="100px;" alt=""/>
@@ -147,7 +148,7 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 		<td align="center">
 			<a href="https://github.com/ptprashanttripathi/movieinfocommits?author=ptprashanttripathi" title="Code">Devloper 💻</a>
 		</td>
-        <td align="center">
+        	<td align="center">
 			<a href="https://github.com/ptprashanttripathi/movieinfocommits?author=Ajaypatel-512" title="Code">Designer 🎨</a>
 		</td>
 	</tr>
