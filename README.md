@@ -3,7 +3,6 @@
 		<img alt="movieinfo app" src="https://i.imgur.com/IVOhZJi.jpg" width="150vw" />
 	</a>
 	<h1>Movie Info App</h1>
-</center>
 
 [![contributors-shield](https://img.shields.io/github/contributors/ptprashanttripathi/movieinfo.svg?style=flat-square)](https://github.com/ptprashanttripathi/movieinfo/graphs/contributors)
 [![forks-shield](https://img.shields.io/github/forks/ptprashanttripathi/movieinfo.svg?style=flat-square)](https://github.com/ptprashanttripathi/movieinfo/network/members)
@@ -29,8 +28,7 @@
 <a href='https://ko-fi.com/ptprashanttripathi' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for ptprashanttripathi' />
 </a>
 <a href="https://www.buymeacoffee.com/ptprashant09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
-<a href="upi://paypa=pt1998@ybl&pn=Prashant%Tripathi&tn=Dontinga%to%PtPrashantTripathi&cu=INR" target="_blank"><img src="https://i.imgur.com/RhwgQy9.png" height="23" width="100" style="border-radius:1px" />
-
+</center>
 ## About
 
 JavaScript/jQuery app that fetches `information`, `images`, `rating`, `description`, etc. about a movie from the OMDb API
