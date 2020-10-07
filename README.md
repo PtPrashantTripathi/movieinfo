@@ -4,6 +4,7 @@
 	</a>
 	<h1>Movie Info App</h1>
 
+
 [![contributors-shield](https://img.shields.io/github/contributors/ptprashanttripathi/movieinfo.svg?style=flat-square)](https://github.com/ptprashanttripathi/movieinfo/graphs/contributors)
 [![forks-shield](https://img.shields.io/github/forks/ptprashanttripathi/movieinfo.svg?style=flat-square)](https://github.com/ptprashanttripathi/movieinfo/network/members)
 [![stars-shield](https://img.shields.io/github/stars/ptprashanttripathi/movieinfo.svg?style=flat-square)](https://github.com/ptprashanttripathi/movieinfo/stargazers)
@@ -15,15 +16,15 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/PtPrashantTripathi/movieinfo.svg?style=flat-square)
 ![Website Status](https://img.shields.io/website/http/ptprashanttripathi.github.io.svg?down_message=Down&up_message=Online&style=flat-square)
 
-[View Demo](https://ptprashanttripathi.github.io/gh-profile-readme-generator)
+[View Demo](https://ptprashanttripathi.github.io/movieinfo)
 ·
 [Report Bug](https://github.com/ptprashanttripathi/movieinfo/issues/new/choose)
 ·
 [Request Feature](https://github.com/ptprashanttripathi/movieinfo/issues/new/choose)
 
-<p align="center">
+<p>
 
-*Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/10)  💸 to help it improve!*
+*Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/100)  💸 to help it improve!*
 
 
 <a href="https://paypal.me/PtPrashantTripathi"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
@@ -32,6 +33,7 @@
 </a>
 <a href="https://www.buymeacoffee.com/ptprashant09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
 </p>
+</center>
 
 ## About
 
@@ -42,7 +44,7 @@ JavaScript/jQuery app that fetches `information`, `images`, `rating`, `descripti
 
 ![screenshot](https://raw.githubusercontent.com/PtPrashantTripathi/movieinfo/master/assets/screenshot.gif)
 
-Try the tool: [GitHub Profile README Generator](https://ptprashanttripathi.github.io/gh-profile-readme-generator)
+> Try the tool: [https://ptprashanttripathi.github.io/movieinfo](https://ptprashanttripathi.github.io/movieinfo)
 
 ## 🧐 Features
 
@@ -110,13 +112,12 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 ## 🙏 Support
 
 <p align="left">
-<a href="https://www.paypal.me/ptprashanttripathi"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
+<a href="https://www.paypal.me/ptprashanttripathi"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile"/>
 </a>
 <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fptprashanttripathi.github.io%2Fmovieinfo">
 <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fptprashanttripathi.github.io%2Fmovieinfo" alt="tweet"/>
 </a>
 </p>
-
 <p align="left">
   <a href='https://ko-fi.com/ptprashanttripathi' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for ptprashanttripathi' />
   </a>
