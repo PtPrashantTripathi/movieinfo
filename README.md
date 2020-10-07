@@ -21,9 +21,11 @@
 ·
 [Request Feature](https://github.com/ptprashanttripathi/movieinfo/issues/new/choose)
 
+<p align="center">
+
 *Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/10)  💸 to help it improve!*
 
-<p align="center">
+
 <a href="https://paypal.me/PtPrashantTripathi"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
 </a>
 <a href='https://ko-fi.com/ptprashanttripathi' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for ptprashanttripathi' />
@@ -96,10 +98,10 @@ Please contribute using [GitHub Flow](https://guides.github.com/introduction/flo
 Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
 
 ## 💻 Built with
-- [Bootstrap](https://www.getbootstrap.com/) for css framework
-- [Axios](https://tailwindcss.com/): for - - -
-- [jQuery](https://greensock.com/gsap/): for - - -
-- [Tmdb](https://greensock.com/gsap/): for api- - -
+- [Bootstrap](https://www.getbootstrap.com/) for CSS framework
+- [Axios](https://www.axios.com): for HTTP request handler
+- [jQuery](https://jquery.com/): for animation
+- [Tmdb](https://themoviedb.org/): for Movie Databse 
 
 ## 🙇 Special Thanks
 
@@ -111,7 +113,7 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 <a href="https://www.paypal.me/ptprashanttripathi"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
 </a>
 <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fptprashanttripathi.github.io%2Fmovieinfo">
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fptprashanttripathi.github.io%2Fmovieinfo" alt="tweet github profile readme generator"/>
+<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fptprashanttripathi.github.io%2Fmovieinfo" alt="tweet"/>
 </a>
 </p>
 
@@ -122,6 +124,7 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 </p>
 
 ## Contributors ✨
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 ![Devloper](https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square)
 ![Designer](https://img.shields.io/badge/Designer-Ajay%20Patel-Success.svg?style=flat-square)
