@@ -1,6 +1,6 @@
 <center>
 	<a href="https://ptprashanttripathi.github.io/movieinfo">
-		<img alt="movieinfo app" src="https://i.imgur.com/IVOhZJi.jpg" width="60" />
+		<img alt="movieinfo app" src="https://i.imgur.com/IVOhZJi.jpg" width="150vw" />
 	</a>
 	<h1>Movie Info App</h1>
 </center>
