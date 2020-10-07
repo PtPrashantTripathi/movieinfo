@@ -29,8 +29,7 @@
 <a href='https://ko-fi.com/ptprashanttripathi' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for ptprashanttripathi' />
 </a>
 <a href="https://www.buymeacoffee.com/ptprashant09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
-	
-[upi](upi://paypa=pt1998@ybl&pn=Prashant%Tripathi&tn=Dontinga%to%PtPrashantTripathi&cu=INR)
+<a href="upi://paypa=pt1998@ybl&pn=Prashant%Tripathi&tn=Dontinga%to%PtPrashantTripathi&cu=INR" target="_blank"><img src="https://i.imgur.com/RhwgQy9.png" height="23" width="100" style="border-radius:1px" />
 
 ## About
 
