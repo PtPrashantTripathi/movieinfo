@@ -23,12 +23,14 @@
 
 *Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/10)  💸 to help it improve!*
 
+<p align="center">
 <a href="https://paypal.me/PtPrashantTripathi"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
 </a>
 <a href='https://ko-fi.com/ptprashanttripathi' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for ptprashanttripathi' />
 </a>
 <a href="https://www.buymeacoffee.com/ptprashant09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
-</center>
+</p>
+
 ## About
 
 JavaScript/jQuery app that fetches `information`, `images`, `rating`, `description`, etc. about a movie from the OMDb API
