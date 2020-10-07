@@ -1,10 +1,8 @@
 <center>
-  <a href="https://ptprashanttripathi.github.io/movieinfo">
-    <img alt="movieinfo app" src="https://i.imgur.com/IVOhZJi.jpg" width="60" />
-  </a>
-
-# Movie Info App
-
+	<a href="https://ptprashanttripathi.github.io/movieinfo">
+		<img alt="movieinfo app" src="https://i.imgur.com/IVOhZJi.jpg" width="60" />
+	</a>
+	<h1>Movie Info App</h1>
 </center>
 
 [![contributors-shield](https://img.shields.io/github/contributors/ptprashanttripathi/movieinfo.svg?style=flat-square)](https://github.com/ptprashanttripathi/movieinfo/graphs/contributors)
