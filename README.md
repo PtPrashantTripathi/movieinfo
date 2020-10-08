@@ -19,10 +19,10 @@
 </p>
 <p align="center">
 	<i>Loved the tool? Please consider <a href="https://paypal.me/ptprashanttripathi/100">donating</a> 💸 to help it improve!</i><br>
-	<a href="https://paypal.me/PtPrashantTripathi"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="Donate"/></a>
+	<a href="https://paypal.me/PtPrashantTripathi"><img height='23' src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="Donate"/></a>
 	<a href='https://ko-fi.com/ptprashanttripathi' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for ptprashanttripathi' /></a>
 	<a href="https://www.buymeacoffee.com/ptprashant09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" /></a>
-	<a href="upi://pay?pa=pt8435782545-2@okaxis&amp;pn=PrashantTripathi&amp;cu=INR&amp;tn=support%via%UPI" target="_blank"><img src="https://i.imgur.com/xeM4cd1.jpg" alt="Support Via UPI" height="31.69" width="100" style="border-radius:1px" /></a>
+	<a href="upi://pay?pa=pt8435782545-2@okaxis&amp;pn=PrashantTripathi&amp;cu=INR&amp;tn=support%via%UPI" target="_blank"><img src="https://i.imgur.com/xeM4cd1.jpg" alt="Support Via UPI" width="70.55" height="23" style="border-radius:1px" /></a>
 </p>
 
 ## About
