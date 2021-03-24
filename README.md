@@ -160,8 +160,6 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 **Please contact me using one of the following:**
 
 Github: [Pt. Prashant Tripathi](https://github.com/ptprashanttripathi/)
-
-Email: [pt8435782545@gmail.com](mailto:pt8435782545@gmail.com)
   
 <hr>
 <p align="center">
