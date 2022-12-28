@@ -45,14 +45,17 @@ function getMovies(searchText) {
 }
 
 function movieSelected(id) {
-	sessionStorage.setItem('movieId', id);
-	window.location = 'movie.html';
+	window.location = 'movie.html?movieId='+id;
 	return false;
 }
 
 function getMovie() {
-	let movieId = sessionStorage.getItem('movieId');
-	// Make a request for a user with a given ID
+        const queryString = window.location.search;
+	const urlParams = new URLSearchParams(queryString);
+	
+	let movieId = urlParams.get('movieId');
+	
+        // Make a request for a user with a given ID
 	get("https://api.themoviedb.org/3/movie/" + movieId + "?api_key=98325a9d3ed3ec225e41ccc4d360c817")
 		.then(function(response) {
 			let movie = response.data;
