@@ -5,11 +5,24 @@ document.addEventListener("DOMContentLoaded", () => {
 		getMovies(searchText);
 	});
 });
+// Get function
+function get(url) {
+  return fetch(url)
+    .then((response) => {
+      return response.json();
+    })
+    .then((data) => {
+      return data;
+    })
+    .catch((error) => {
+      console.log(error);
+    });
+}
 
 function getMovies(searchText) {
 	//make request to api using axios
 	// Make a request for a user with a given ID
-	axios.get("https://api.themoviedb.org/3/search/movie?api_key=98325a9d3ed3ec225e41ccc4d360c817&language=en-US&query=" + searchText)
+	get("https://api.themoviedb.org/3/search/movie?api_key=98325a9d3ed3ec225e41ccc4d360c817&language=en-US&query=" + searchText)
 		.then(function(response) {
 			let movies = response.data.results;
 			let output = '';
@@ -40,7 +53,7 @@ function movieSelected(id) {
 function getMovie() {
 	let movieId = sessionStorage.getItem('movieId');
 	// Make a request for a user with a given ID
-	axios.get("https://api.themoviedb.org/3/movie/" + movieId + "?api_key=98325a9d3ed3ec225e41ccc4d360c817")
+	get("https://api.themoviedb.org/3/movie/" + movieId + "?api_key=98325a9d3ed3ec225e41ccc4d360c817")
 		.then(function(response) {
 			let movie = response.data;
 			//console.log(movie);
