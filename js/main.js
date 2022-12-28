@@ -1,20 +1,20 @@
-$(document).ready(() => {
-  $("#searchForm").on('submit', (e) => {
-    e.preventDefault();
-    let searchText = $("#searchText").val();
-    getMovies(searchText);
-  });
+document.addEventListener("DOMContentLoaded", () => {
+	document.querySelector("#searchForm").addEventListener('submit', (e) => {
+		e.preventDefault();
+		let searchText = document.querySelector("#searchText").value;
+		getMovies(searchText);
+	});
 });
 
-function getMovies(searchText){
-  //make request to api using axios
-  // Make a request for a user with a given ID
-  axios.get("https://api.themoviedb.org/3/search/movie?api_key=98325a9d3ed3ec225e41ccc4d360c817&language=en-US&query=" + searchText)
-    .then(function (response) {
-      let movies = response.data.results;
-      let output = '';
-      $.each(movies, (index, movie) => {
-        output+=`
+function getMovies(searchText) {
+	//make request to api using axios
+	// Make a request for a user with a given ID
+	axios.get("https://api.themoviedb.org/3/search/movie?api_key=98325a9d3ed3ec225e41ccc4d360c817&language=en-US&query=" + searchText)
+		.then(function(response) {
+			let movies = response.data.results;
+			let output = '';
+			movies.forEach((movie) => {
+				output += `
           <div class="col-md-3">
             <div class="well text-center">
               <img src="https://image.tmdb.org/t/p/w500${movie.poster_path}">
@@ -23,28 +23,29 @@ function getMovies(searchText){
             </div>
           </div>
         `;
-      });
-      $('#movies').html(output);
-    })
-    .catch(function (error) {
-      console.log(error);
-    });
+			});
+			document.querySelector('#movies').innerHTML = output;
+		})
+		.catch(function(error) {
+			console.log(error);
+		});
 }
 
-function movieSelected(id){
-  sessionStorage.setItem('movieId', id);
-  window.location = 'movie.html';
-  return false;
+function movieSelected(id) {
+	sessionStorage.setItem('movieId', id);
+	window.location = 'movie.html';
+	return false;
 }
 
-function getMovie(){
-  let movieId = sessionStorage.getItem('movieId');
-  // Make a request for a user with a given ID
-  axios.get("https://api.themoviedb.org/3/movie/" + movieId + "?api_key=98325a9d3ed3ec225e41ccc4d360c817")
-    .then(function (response) {
-    let movie = response.data;
-    //console.log(movie);
-    let output = `
+function getMovie() {
+	let movieId = sessionStorage.getItem('movieId');
+	// Make a request for a user with a given ID
+	axios.get("https://api.themoviedb.org/3/movie/" + movieId + "?api_key=98325a9d3ed3ec225e41ccc4d360c817")
+		.then(function(response) {
+			let movie = response.data;
+			//console.log(movie);
+
+			let output = `
         <div class="row">
           <div class="col-md-4">
             <img src="https://image.tmdb.org/t/p/w500${movie.poster_path}" class="thumbnail">
@@ -70,9 +71,11 @@ function getMovie(){
           </div>
         </div>
     `;
-    $('#movie').html(output);
-    })
-    .catch(function (error) {
-      console.log(error);
-    });
+
+			document.querySelector('#movie').innerHTML = output;
+
+		})
+		.catch(function(error) {
+			console.log(error);
+		});
 }
