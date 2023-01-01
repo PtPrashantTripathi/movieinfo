@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", () => {
-	document.querySelector("#searchForm").addEventListener('submit', (e) => {
-		e.preventDefault();
-		let searchText = document.querySelector("#searchText").value;
-		getMovies(searchText);
-	});
+  document.querySelector("#searchForm").addEventListener("submit", (e) => {
+    e.preventDefault();
+    let searchText = document.querySelector("#searchText").value;
+    getMovies(searchText);
+  });
 });
 // Get function
 function get(url) {
@@ -20,14 +20,18 @@ function get(url) {
 }
 
 function getMovies(searchText) {
-	//make request to api using axios
-	// Make a request for a user with a given ID
-	get("https://api.themoviedb.org/3/search/movie?api_key=98325a9d3ed3ec225e41ccc4d360c817&language=en-US&query=" + searchText)
-		.then(function(response) {
-			let movies = response.data.results;
-			let output = '';
-			movies.forEach((movie) => {
-				output += `
+  //make request to api using axios
+  // Make a request for a user with a given ID
+  get(
+    "https://api.themoviedb.org/3/search/movie?api_key=98325a9d3ed3ec225e41ccc4d360c817&language=en-US&query=" +
+      searchText
+  )
+    .then(function (response) {
+      let movies = response.results;
+      console.log(movies);
+      let output = "";
+      movies.forEach((movie) => {
+        output += `
           <div class="col-md-3">
             <div class="well text-center">
               <img src="https://image.tmdb.org/t/p/w500${movie.poster_path}">
@@ -36,32 +40,36 @@ function getMovies(searchText) {
             </div>
           </div>
         `;
-			});
-			document.querySelector('#movies').innerHTML = output;
-		})
-		.catch(function(error) {
-			console.log(error);
-		});
+      });
+      document.querySelector("#movies").innerHTML = output;
+    })
+    .catch(function (error) {
+      console.log(error);
+    });
 }
 
 function movieSelected(id) {
-	window.location = 'movie.html?movieId='+id;
-	return false;
+  window.location = "movie.html?movieId=" + id;
+  return false;
 }
 
 function getMovie() {
-        const queryString = window.location.search;
-	const urlParams = new URLSearchParams(queryString);
-	
-	let movieId = urlParams.get('movieId');
-	
-        // Make a request for a user with a given ID
-	get("https://api.themoviedb.org/3/movie/" + movieId + "?api_key=98325a9d3ed3ec225e41ccc4d360c817")
-		.then(function(response) {
-			let movie = response.data;
-			//console.log(movie);
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
 
-			let output = `
+  let movieId = urlParams.get("movieId");
+
+  // Make a request for a user with a given ID
+  get(
+    "https://api.themoviedb.org/3/movie/" +
+      movieId +
+      "?api_key=98325a9d3ed3ec225e41ccc4d360c817"
+  )
+    .then(function (response) {
+      let movie = response;
+      console.log(movie);
+
+      let output = `
         <div class="row">
           <div class="col-md-4">
             <img src="https://image.tmdb.org/t/p/w500${movie.poster_path}" class="thumbnail">
@@ -88,10 +96,9 @@ function getMovie() {
         </div>
     `;
 
-			document.querySelector('#movie').innerHTML = output;
-
-		})
-		.catch(function(error) {
-			console.log(error);
-		});
+      document.querySelector("#movie").innerHTML = output;
+    })
+    .catch(function (error) {
+      console.log(error);
+    });
 }
