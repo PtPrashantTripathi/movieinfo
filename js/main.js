@@ -24,7 +24,7 @@ function getMovies(searchText) {
   // Make a request for a user with a given ID
   get(
     "https://api.themoviedb.org/3/search/movie?api_key=98325a9d3ed3ec225e41ccc4d360c817&language=en-US&query=" +
-      searchText
+      searchText,
   )
     .then(function (response) {
       let movies = response.results;
@@ -63,7 +63,7 @@ function getMovie() {
   get(
     "https://api.themoviedb.org/3/movie/" +
       movieId +
-      "?api_key=98325a9d3ed3ec225e41ccc4d360c817"
+      "?api_key=98325a9d3ed3ec225e41ccc4d360c817",
   )
     .then(function (response) {
       let movie = response;

@@ -29,8 +29,7 @@
 
 JavaScript/jQuery app that fetches `information`, `images`, `rating`, `description`, etc. about a movie from the OMDb API
 
-
-## 🚀 Screenshot 
+## 🚀 Screenshot
 
 ![screenshot](https://raw.githubusercontent.com/PtPrashantTripathi/movieinfo/master/assets/screenshot.gif)
 
@@ -38,15 +37,15 @@ JavaScript/jQuery app that fetches `information`, `images`, `rating`, `descripti
 
 ## 🧐 Features
 
-- **Use anywhere, browser** 
+- **Use anywhere, browser**
 - **Includes:**
-   - *Title*
-   - *Release Date*
-   - *Plot summary overview*
-   - *Poster & backdrop images*
-   - *IMDB rating* + *vote count*
-   - *Recent popularity rating*
-   - *Adult film* (boolean)
+  - _Title_
+  - _Release Date_
+  - _Plot summary overview_
+  - _Poster & backdrop images_
+  - _IMDB rating_ + _vote count_
+  - _Recent popularity rating_
+  - _Adult film_ (boolean)
 
 ## 🛠️ Installation Steps
 
@@ -76,7 +75,6 @@ npm start
 
 🌟 then wallah! You are all set.
 
-
 ## Usage
 
 ```bash
@@ -90,10 +88,11 @@ Please contribute using [GitHub Flow](https://guides.github.com/introduction/flo
 Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
 
 ## 💻 Built with
+
 - [Bootstrap](https://www.getbootstrap.com/) for CSS framework
 - [Axios](https://www.axios.com): for HTTP request handler
 - [jQuery](https://jquery.com/): for animation
-- [Tmdb](https://themoviedb.org/): for Movie Databse 
+- [Tmdb](https://themoviedb.org/): for Movie Databse
 
 ## 🙇 Special Thanks
 
@@ -153,14 +152,14 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 			<a href="https://github.com/ptprashanttripathi/movieinfocommits?author=Ajaypatel-512" title="Code">Designer 🎨</a>
 		</td>
 	</tr>
-</table>  
+</table>
 
 ## Questions and Feedback
 
 **Please contact me using one of the following:**
 
 Github: [Pt. Prashant Tripathi](https://github.com/ptprashanttripathi/)
-  
+
 <hr>
 <p align="center">
 Developed with ❤️ in India 🇮🇳 
